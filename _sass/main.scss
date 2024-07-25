@@ -220,6 +220,7 @@ blockquote {
 // Navigation
 .main-nav {
   text-align: center;
+  direction: rtl; /* Tambahkan properti ini untuk mengatur urutan dari kanan ke kiri */
 
   ul {
     list-style: none;
